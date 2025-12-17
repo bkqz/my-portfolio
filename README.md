@@ -26,7 +26,6 @@ With certifications in **AWS AI**, **Oracle Cloud**, and **Data Engineering**, I
 ## 🚀 Featured Projects
 
 ### 1. [AI Motivational Quote Generator (TinyLlama Fine-Tuning)](https://github.com/bkqz/ai-quote-generator)
-**Role:** ML Engineer  
 **Focus:** Large Language Model Fine-Tuning & Inference Optimization
 * **Summary:** Fine-tuned a 1.1B parameter TinyLlama model to strictly adhere to structured output formats, reducing inference latency by ~58% via quantization.
 * **Engineering Highlights:**
@@ -36,7 +35,6 @@ With certifications in **AWS AI**, **Oracle Cloud**, and **Data Engineering**, I
 * **Stack:** PyTorch, Hugging Face, Google Colab, Gradio.
 
 ### 2. [AI-Powered Recipe Recommender](https://github.com/bkqz/recipe-recommender)
-**Role:** Data Scientist  
 **Focus:** NLP, Vectorization, and Web Application
 * **Summary:** Developed a content-based recommendation engine that matches user ingredients to recipes using TF-IDF vectorization and Cosine Similarity.
 * **Stack:** Python, Streamlit, Pandas, Scikit-learn, REST APIs.
@@ -44,7 +42,6 @@ With certifications in **AWS AI**, **Oracle Cloud**, and **Data Engineering**, I
 ### 3. [CloudMart: Multi-Cloud E-Commerce Platform](https://www.linkedin.com/posts/bkaziyev_multicloud-devops-ai-activity-7309754378440077312-Zpmm)
 *Note: This project synthesizes a 5-day intensive MultiCloud challenge.*
 
-**Role:** Cloud/Data Engineer  
 **Focus:** Infrastructure as Code (IaC), Containerization, and AI Agent Integration
 
 ![CloudMart Architecture Diagram](cloudmart/architecture.png)
@@ -57,7 +54,6 @@ With certifications in **AWS AI**, **Oracle Cloud**, and **Data Engineering**, I
     * **Data & AI:** Integrated **AWS Bedrock** for AI customer agents, **Google BigQuery** for analytics and **Azure AI** for sentiment analysis on customer feedback.
 
 ### 4. [Predictive Maintenance Dashboard](https://predmaintdemo.streamlit.app/)
-**Role:** Data Analyst / Scientist  
 **Focus:** Regression Modeling & Operational Insights
 * **Summary:** Leveraged historical sensor data to predict the Remaining Useful Life (RUL) of industrial equipment, achieving an RMSE of ~18 cycles.
 * **Stack:** XGBoost, Random Forest, Feature Engineering, Streamlit.
