@@ -101,5 +101,5 @@ With certifications in **AWS AI**, **Oracle Cloud**, and **Data Engineering**, I
 ---
 
 ## 📂 Other Projects
-* **[Fake News Detector](fake_news_detector/Fake_news_detector.ipynb):** NLP classification using TF-IDF and Passive Aggressive Classifiers (93% Accuracy).
-* **[Titanic Dataset Analysis](titanic_dataset/):** Comprehensive EDA and classification using Random Forest (82% Accuracy).
+* **[Fake News Detector](https://github.com/bkqz/fake_news_detector/Fake_news_detector.ipynb):** NLP classification using TF-IDF and Passive Aggressive Classifiers (93% Accuracy).
+* **[Titanic Dataset Analysis](https://github.com/bkqz/titanic_dataset/):** Comprehensive EDA and classification using Random Forest (82% Accuracy).
